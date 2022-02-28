@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "gh-pages": "^3.2.3",
+    "remote": "^0.2.6"
+  },
+  "name": "working_with-_react",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mekonnenke/working_with-_react.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mekonnenke/working_with-_react/issues"
+  },
+  "homepage": "https://github.com/Mekonnenke/working_with-_react#readme"
+}
